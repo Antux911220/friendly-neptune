@@ -15,7 +15,10 @@
                 "label": "Elements",
                 "url": "/elements/"
             },
-           
+            {
+                "label": "Ipsum",
+                "url": "/ipsum/"
+            }
         ]
     },
     "footer": {

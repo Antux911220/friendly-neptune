@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Our present is digital
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Being digital in a digital era
     image: images/LTD.png
     image_alt: Author avatar
   - title: Text

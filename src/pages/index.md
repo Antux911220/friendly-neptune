@@ -12,9 +12,9 @@ sections:
     section_id: intro
     type: section_content
     content: >
-      The world is digital, and nowadays we don't exist if we are not online. On
-      this assumption, this company born and wants to help business to became
-      part of the current digital world. 
+      The world is digital, and nowadays, we don't exist if we are not online.
+      On this assumption, this company born and wants to help the businesses
+      became part of the current digital world.
 
 
       ### An integrated approach, new tools for a better future.

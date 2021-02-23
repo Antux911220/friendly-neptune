@@ -11,14 +11,12 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+    content: >
+      The world is digital, and nowadays we don't exist if we are not online.
+
 
       ### This is an H3. Use it for subheads and subsections.
+
 
       Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
       dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an

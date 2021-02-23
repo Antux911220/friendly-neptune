@@ -49,5 +49,6 @@
         ]
     },
     "title": "Stackbit Vanilla Theme",
-    "domain": "https://friendly-neptune-4e296.netlify.app"
+    "domain": "https://friendly-neptune-4e296.netlify.app",
+    "favicon": "images/graceful-europa.png"
 }

@@ -4,7 +4,7 @@ excerpt: >-
   blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
   Phasellus et magna vitae nibh porttitor tempus vitae.
 date: '2021-02-27'
-thumb_img_path: images/art.svg
+thumb_img_path: images/BellaMamma_website_logotemp.png
 seo:
   title: Magna etiam sed lorem ipsum dolor amet
   description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante

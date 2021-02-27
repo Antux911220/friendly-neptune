@@ -1,8 +1,5 @@
 ---
-excerpt: >-
-  Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
-  blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
-  Phasellus et magna vitae nibh porttitor tempus vitae.
+excerpt: 'This is the first project where we have been involved. On this project as '
 date: '2021-02-27'
 thumb_img_path: images/BellaMamma_website_logotemp.png
 seo:

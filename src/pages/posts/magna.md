@@ -27,6 +27,7 @@ seo:
     - name: 'twitter:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 template: post
+content_img_path: images/BellaMamma_website_logotemp.png
 ---
 This is the first project where we have been involved. On this project as Antonio De Gaetano, I have started to develop an e-commerce website for some Italian Product, an integrated approach on this project had led this company to be part of the Investors and the maintainer of their back-office order platform.  
 

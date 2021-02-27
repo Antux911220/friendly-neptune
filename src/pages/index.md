@@ -30,7 +30,7 @@ sections:
       improving the solutions adopted and their accessibility.
 
       Se we are working on this every day.
-  - title: Recent Posts
+  - title: Recent Project
     section_id: posts
     type: section_posts
     has_more_link: true

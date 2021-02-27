@@ -20,17 +20,16 @@ sections:
       ### An integrated approach, new tools for a better future.
 
 
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
+      The web is a constantly changing world; every day, a new tool comes out
+      and simplify some old actions.
 
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+      Being ready to use these tools to make our life easier is our primary
+      mission.
+
+      This company has a clear vision that a better web is possible only by
+      improving the solutions adopted and their accessibility.
+
+      Se we are working on this every day.
   - title: Recent Posts
     section_id: posts
     type: section_posts

@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Just a Generic Page
+      value: Our Mission
     - name: 'twitter:description'
       value: This is a generic page
 template: page

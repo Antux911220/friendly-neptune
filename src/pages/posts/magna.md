@@ -4,7 +4,7 @@ date: '2021-02-27'
 thumb_img_path: images/BellaMamma_website_logotemp.png
 seo:
   title: Project Bella Mamma
-  description: 
+  description: an import/export project
   extra:
     - name: 'og:type'
       value: article

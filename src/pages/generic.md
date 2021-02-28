@@ -1,5 +1,5 @@
 ---
-title: Bella Mamma
+title: Our Project Mission
 subtitle: Just a generic subtitle for the page
 seo:
   title: Just a Generic Page

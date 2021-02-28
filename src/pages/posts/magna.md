@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:title'
       value: an import/export project
     - name: 'twitter:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: an import/export project
 template: post
 content_img_path: images/BellaMamma_website_logotemp.png
 title: Bella Mamma - Italian Food

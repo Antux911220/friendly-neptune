@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Our Mission
+      value: Our Project Mission
     - name: 'twitter:description'
       value: An introduction to our project
 template: page

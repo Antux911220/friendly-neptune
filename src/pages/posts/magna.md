@@ -13,7 +13,7 @@ seo:
       value: an import/export project
       keyName: property
     - name: 'og:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: an import/export project
       keyName: property
     - name: 'twitter:card'
       value: summary

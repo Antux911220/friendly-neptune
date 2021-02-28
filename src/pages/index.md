@@ -41,7 +41,7 @@ sections:
     image_alt: Geometric pattern
 seo:
   title: De Gaetano Digital Investment Network LTD
-  description: The preview of the Vanilla theme
+  description: De Gaetano Digital Investment Network LTD
   extra:
     - name: 'og:type'
       value: website

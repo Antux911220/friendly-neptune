@@ -4,7 +4,7 @@ date: '2021-02-27'
 thumb_img_path: images/BellaMamma_website_logotemp.png
 seo:
   title: Project Bella Mamma
-  description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+  description: 
   extra:
     - name: 'og:type'
       value: article

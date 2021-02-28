@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Antonio De Gaetano
     - name: 'twitter:description'
-      value: This is the UI kit page
+      value: Antonio De Gaetano
 template: page
 ---
 I am Antonio, and I write this with my punch. In

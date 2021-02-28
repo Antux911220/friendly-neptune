@@ -10,7 +10,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Magna etiam sed lorem ipsum dolor amet
+      value: an import/export project
       keyName: property
     - name: 'og:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante

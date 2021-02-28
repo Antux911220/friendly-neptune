@@ -50,7 +50,7 @@ seo:
       value: De Gaetano Digital Investment Network LTD
       keyName: property
     - name: 'og:description'
-      value: The preview of the Vanilla theme
+      value: De Gaetano Digital Investment Network LTD
       keyName: property
     - name: 'og:image'
       value: images/vanilla-preview.png

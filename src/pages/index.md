@@ -61,7 +61,7 @@ seo:
     - name: 'twitter:title'
       value: De Gaetano Digital Investment Network LTD
     - name: 'twitter:description'
-      value: The preview of the Vanilla theme
+      value: De Gaetano Digital Investment Network LTD
     - name: 'twitter:image'
       value: images/vanilla-preview.png
       relativeUrl: true

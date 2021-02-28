@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Our Mission
+      value: Our Project Mission
       keyName: property
     - name: 'og:description'
       value: An introduction to our project

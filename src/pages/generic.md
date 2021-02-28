@@ -19,6 +19,6 @@ seo:
     - name: 'twitter:title'
       value: Our Mission
     - name: 'twitter:description'
-      value: This is a generic page
+      value: An introduction to our project
 template: page
 ---

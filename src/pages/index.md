@@ -29,6 +29,7 @@ sections:
       improving the solutions adopted and their accessibility.
 
       Se we are working on this every day.
+    title: Home
   - title: Recent Project
     section_id: posts
     type: section_posts

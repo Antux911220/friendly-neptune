@@ -12,7 +12,7 @@ seo:
       value: Antonio De Gaetano
       keyName: property
     - name: 'og:description'
-      value: This is the UI kit page
+      value: Antonio De Gaetano
       keyName: property
     - name: 'twitter:card'
       value: summary

@@ -12,7 +12,7 @@ seo:
       value: De Gaetano Digital Investment Network Ltd
       keyName: property
     - name: 'og:description'
-      value: Aliquam lobortis faucibus blandit
+      value: De Gaetano Digital Investment Network Ltd
       keyName: property
     - name: 'twitter:card'
       value: summary

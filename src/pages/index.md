@@ -8,8 +8,7 @@ sections:
       ### Being digital in a digital era
     image: images/LTD.png
     image_alt: Author avatar
-  - title: 'De '
-    section_id: intro
+  - section_id: intro
     type: section_content
     content: >
       The world is digital, and nowadays, we don't exist if we are not online.

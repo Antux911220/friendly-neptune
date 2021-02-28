@@ -2,7 +2,7 @@
 title: Antonio De Gaetano
 subtitle: ideas always comes in the critical situations
 seo:
-  title: Ipsum dolor sit amet
+  title: De Gaetano Digital Investment Network Ltd
   description: Aliquam lobortis faucibus blandit
   extra:
     - name: 'og:type'

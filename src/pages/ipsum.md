@@ -3,7 +3,7 @@ title: Antonio De Gaetano
 subtitle: ideas always comes in the critical situations
 seo:
   title: De Gaetano Digital Investment Network Ltd
-  description: Aliquam lobortis faucibus blandit
+  description: A company to bring your company to this century
   extra:
     - name: 'og:type'
       value: website

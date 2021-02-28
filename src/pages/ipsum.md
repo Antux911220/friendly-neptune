@@ -1,5 +1,5 @@
 ---
-title: Ipsum dolor sit amet
+title: Antonio De Gaetano
 subtitle: Aliquam lobortis faucibus blandit
 seo:
   title: Ipsum dolor sit amet

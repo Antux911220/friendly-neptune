@@ -2,7 +2,7 @@
 title: Our Project Mission
 subtitle: Each single detail is crucial
 seo:
-  title: Our Mission
+  title: Projects
   description: An introduction to our project
   extra:
     - name: 'og:type'

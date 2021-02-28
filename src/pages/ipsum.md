@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Ipsum dolor sit amet
+      value: De Gaetano Digital Investment Network Ltd
       keyName: property
     - name: 'og:description'
       value: Aliquam lobortis faucibus blandit

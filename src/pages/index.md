@@ -8,7 +8,7 @@ sections:
       ### Being digital in a digital era
     image: images/LTD.png
     image_alt: Author avatar
-  - title: Text
+  - title: 'De '
     section_id: intro
     type: section_content
     content: >

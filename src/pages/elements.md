@@ -1,5 +1,5 @@
 ---
-title: UI Kit
+title: Antonio De Gaetano ideas always comes in the critical situations
 subtitle: Vanilla styleguide.
 seo:
   title: UI Kit

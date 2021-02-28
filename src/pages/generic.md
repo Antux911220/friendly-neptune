@@ -12,7 +12,7 @@ seo:
       value: Our Mission
       keyName: property
     - name: 'og:description'
-      value: An introduction to our projects
+      value: An introduction to our project
       keyName: property
     - name: 'twitter:card'
       value: summary

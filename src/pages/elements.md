@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: UI Kit
+      value: Antonio De Gaetano
       keyName: property
     - name: 'og:description'
       value: This is the UI kit page

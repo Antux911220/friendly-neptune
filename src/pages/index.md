@@ -40,7 +40,7 @@ sections:
     type: section_content
     image_alt: Geometric pattern
 seo:
-  title: Stackbit Vanilla Theme
+  title: De Gaetano Digital Investment Network LTD
   description: The preview of the Vanilla theme
   extra:
     - name: 'og:type'

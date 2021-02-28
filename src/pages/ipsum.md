@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Ipsum dolor sit amet
+      value: De Gaetano Digital Investment Network Ltd
     - name: 'twitter:description'
       value: Aliquam lobortis faucibus blandit
 template: page

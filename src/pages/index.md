@@ -35,7 +35,7 @@ sections:
     type: section_posts
     has_more_link: true
     more_link_text: Read more
-  - title: A Cat
+  - title: De Gaetano Digital Investment Network Ltd
     section_id: cat
     type: section_content
     image_alt: Geometric pattern

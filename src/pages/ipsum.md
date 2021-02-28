@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: De Gaetano Digital Investment Network Ltd
     - name: 'twitter:description'
-      value: Aliquam lobortis faucibus blandit
+      value: De Gaetano Digital Investment Network Ltd
 template: page
 ---
 I am Antonio, and I write this with my punch. In the modern era, we are fulfilled with information and tons of ideas that flow in our mind every day. 

@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: UI Kit
+      value: Antonio De Gaetano
     - name: 'twitter:description'
       value: This is the UI kit page
 template: page

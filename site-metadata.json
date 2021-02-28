@@ -1,7 +1,7 @@
 {
     "header": {
         "title": "De Gaetano Digital Investment Network Ltd.",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",

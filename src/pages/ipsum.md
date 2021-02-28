@@ -1,6 +1,6 @@
 ---
 title: Antonio De Gaetano
-subtitle: Aliquam lobortis faucibus blandit
+subtitle: ideas always comes in the critical situations
 seo:
   title: Ipsum dolor sit amet
   description: Aliquam lobortis faucibus blandit

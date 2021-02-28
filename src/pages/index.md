@@ -1,5 +1,5 @@
 ---
-title: Home
+title: De Gaetano Digital Investment Network
 sections:
   - section_id: hero
     type: section_hero

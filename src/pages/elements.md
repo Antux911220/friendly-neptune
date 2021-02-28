@@ -1,5 +1,5 @@
 ---
-title: Antonio De Gaetano
+title: About us
 subtitle: '"ideas always comes in the critical situations"'
 seo:
   title: Antonio De Gaetano

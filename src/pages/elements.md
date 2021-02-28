@@ -2,7 +2,7 @@
 title: Antonio De Gaetano
 subtitle: '"ideas always comes in the critical situations"'
 seo:
-  title: UI Kit
+  title: Antonio De Gaetano
   description: This is the UI kit page
   extra:
     - name: 'og:type'

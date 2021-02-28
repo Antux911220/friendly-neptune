@@ -3,7 +3,7 @@ excerpt: 'This is the first project where we have been involved. On this project
 date: '2021-02-27'
 thumb_img_path: images/BellaMamma_website_logotemp.png
 seo:
-  title: Magna etiam sed lorem ipsum dolor amet
+  title: Project Bella Mamma
   description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
   extra:
     - name: 'og:type'

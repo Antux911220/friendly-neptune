@@ -2,8 +2,8 @@
 title: Our Project Mission
 subtitle: Each single detail is crucial
 seo:
-  title: Just a Generic Page
-  description: This is a generic page
+  title: Our Mission
+  description: An introduction to our project
   extra:
     - name: 'og:type'
       value: website
